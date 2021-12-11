@@ -1,0 +1,1 @@
+fun overTheRoad(address: Int, n: Int): Int = n * 2 - address + 1
