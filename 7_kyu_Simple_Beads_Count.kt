@@ -1,0 +1,1 @@
+fun countRedBeads(nBlue: Int): Int = if (nBlue <= 1) 0 else 2 * (nBlue - 1)
